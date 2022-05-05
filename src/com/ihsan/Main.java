@@ -6,4 +6,6 @@ public class Main {
         OuterClass inner = new OuterClass();
         OuterClass.InnerClass innerInstance = inner.new InnerClass(20);
     }
+//    Static Innerclass
+    OuterClass.InnerClass2 inner2 = new OuterClass.InnerClass2("2020");
 }
