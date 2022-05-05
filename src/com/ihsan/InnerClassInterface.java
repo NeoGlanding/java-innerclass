@@ -1,2 +1,5 @@
-package com.ihsan;public interface InnerClassInterface {
+package com.ihsan;
+
+public interface InnerClassInterface {
+    void check();
 }
